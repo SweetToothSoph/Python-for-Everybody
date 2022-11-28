@@ -1,3 +1,6 @@
+# Exercise 2: Rewrite your pay program using try and except so that your program handles 
+# non-numeric input gracefully by printing a message and exiting the program. 
+
 sh = input("Enter Hours: ")
 sr = input("Enter Rate: ")
 # line 4 & 5 are the dangerous line of code
