@@ -2,7 +2,7 @@
 # of the numbers at the end when the user enters “done”. Write the program to store the numbers the user enters in a 
 # list and use the max() and min() functions to compute the maximum and minimum numbers after the loop completes.
 
-numb = []
+numb = list()
 
 while True :
     data = input('Enter a number: ')
